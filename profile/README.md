@@ -33,6 +33,7 @@ Let's build better and more interesting things together!
 If you have any ideas or suggestions, feel free to reach out to us at mandred.tech@gmail.com. We'd love to hear from you!
 
 Follow us on:
-**Patreon**: patreon.com/MandredTech  
+
+**Patreon**: https://patreon.com/MandredTech
 **LinkedIn**: https://www.linkedin.com/company/mandred-tech
 **YouTube**: https://www.youtube.com/@MandredTech
