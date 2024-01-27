@@ -1,7 +1,7 @@
 <![Header](./pngtree-planet-nebula-banner-background-image_259525.jpg)>
 <h1 align="center">Mandred Tech</h1>
 <h3 align="center">Future Beyond Our Star</h3>
-<img align="right" alt="Hamster" width="200" src="https://media.tenor.com/uM2-uNmwPi8AAAAi/hmm-inchresting.gif">
+<img align="right" alt="Hamster" width="200" src="giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
