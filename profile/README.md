@@ -1,4 +1,4 @@
-<![Header](./banner.png)>
+<![Header](profile/banner.png)>
 <h1 align="center">Mandred Tech</h1>
 <h3 align="center">Future Beyond Our Star</h3>
 <img align="right" alt="Hamster" width="200" src="giphy.gif">
