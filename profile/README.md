@@ -1,4 +1,4 @@
-<![Header](./Screenshot 2024-01-27 132917.png)>
+<![Header](./banner.png)>
 <h1 align="center">Mandred Tech</h1>
 <h3 align="center">Future Beyond Our Star</h3>
 <img align="right" alt="Hamster" width="200" src="giphy.gif">
@@ -8,6 +8,9 @@
 <a href="https://linkedin.com/in//company/mandred-tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/company/mandred-tech/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@mandredtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mandredtech" height="30" width="40" /></a>
 </p>
+
+**    **
+**    **
 
 **What We Do 🚀**
 
