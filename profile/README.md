@@ -1,4 +1,4 @@
-<![Header](./pngtree-planet-nebula-banner-background-image_259525.jpg)>
+<![Header](./Screenshot 2024-01-27 132917.png)>
 <h1 align="center">Mandred Tech</h1>
 <h3 align="center">Future Beyond Our Star</h3>
 <img align="right" alt="Hamster" width="200" src="giphy.gif">
